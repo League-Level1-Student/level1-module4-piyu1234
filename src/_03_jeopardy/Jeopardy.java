@@ -117,6 +117,7 @@ askQuestion("How many legs does a dog have?", "4 legs", 100);
 
 }
 			// Call the askQuestion() method
+
  
 		// Complete the code in the askQuestion() method. When you play the game, the score should change.
 
